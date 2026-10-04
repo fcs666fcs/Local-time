@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">地方时时钟</string>
+    <string name="welcome_line_1">给每一个选择地理的同学</string>
+    <string name="welcome_line_2">你看到的是时间，
+但地理告诉你，时间从来不只是钟表上的数字。</string>
+    <string name="welcome_line_3">愿你看懂经纬线，也看懂这个世界。</string>
+</resources>
